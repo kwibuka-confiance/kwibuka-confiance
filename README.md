@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swift</h1>
+<h1 align="center">Hi 👋, I'm KWIBUKA Confiance</h1>
 <h3 align="center">A passionate fullstack developer from Rwanda</h3>
 
 - 🔭 I’m currently working on [Investor Link](www.investorlink.rw)
