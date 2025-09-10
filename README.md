@@ -12,6 +12,7 @@
 - 📫 How to reach me **swiftmotion2020@gmail.com**
 
 - ⚡ Fun fact **I like to play games and Watch movies in free times**
+- [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8944eeafdb8c48588651cc7b3ffb80ef)](https://app.codacy.com?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
